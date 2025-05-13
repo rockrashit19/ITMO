@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fcabe4cf-4a5e-4caa-873b-7336274fac63" name="Changes" comment="Edited conf">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf/httpd.conf" beforeDir="false" afterPath="$PROJECT_DIR$/conf/httpd0.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/rmntim/web/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/rmntim/web/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wQ78ivBxnHJ4brrQWtoHOYEPgy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Web_1lab [:ru.rmntim.web.Main.main()].executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/admin/IdeaProjects/Web_1lab",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Users/admin/IdeaProjects/Web_1lab/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "Shell Script"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/conf" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/js" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.rmntim.web.Main" />
+      <module name="Web_1lab.main" />
+      <option name="PROGRAM_PARAMETERS" value="-DFCGI_PORT=1337" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.rmntim.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.23774.435" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-IU-251.23774.435" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcabe4cf-4a5e-4caa-873b-7336274fac63" name="Changes" comment="Added config" />
+      <created>1745961788325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745961788325</updated>
+      <workItem from="1745961789425" duration="377000" />
+      <workItem from="1746178367226" duration="258000" />
+      <workItem from="1746178723560" duration="2490000" />
+      <workItem from="1746192067911" duration="160000" />
+      <workItem from="1746192628130" duration="118000" />
+      <workItem from="1746193034782" duration="129000" />
+      <workItem from="1746193278310" duration="806000" />
+      <workItem from="1746194245922" duration="588000" />
+      <workItem from="1746195420803" duration="111000" />
+      <workItem from="1746476413668" duration="2212000" />
+      <workItem from="1746478828424" duration="14520000" />
+      <workItem from="1746559214358" duration="1284000" />
+      <workItem from="1746720670266" duration="4778000" />
+    </task>
+    <task id="LOCAL-00001" summary="Created new project">
+      <option name="closed" value="true" />
+      <created>1745961964855</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745961964855</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Created new project">
+      <option name="closed" value="true" />
+      <created>1745962187178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745962187178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added lib">
+      <option name="closed" value="true" />
+      <created>1745962239453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745962239453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Edited build.gradle">
+      <option name="closed" value="true" />
+      <created>1745962331271</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1745962331271</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added img">
+      <option name="closed" value="true" />
+      <created>1745962636628</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745962636628</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added frontend files">
+      <option name="closed" value="true" />
+      <created>1745963022736</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963022736</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Edited frontend">
+      <option name="closed" value="true" />
+      <created>1745963447083</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963447083</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added img">
+      <option name="closed" value="true" />
+      <created>1745963457574</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745963457574</updated>
+    </task>
+    <task id="LOCAL-00009" summary="New Main">
+      <option name="closed" value="true" />
+      <created>1746176309553</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1746176309553</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added class Params">
+      <option name="closed" value="true" />
+      <created>1746176318295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1746176318295</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Exception">
+      <option name="closed" value="true" />
+      <created>1746176356259</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1746176356259</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Edited some limits following the task">
+      <option name="closed" value="true" />
+      <created>1746176503990</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1746176503990</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added http">
+      <option name="closed" value="true" />
+      <created>1746177492940</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1746177492940</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Moved from the source">
+      <option name="closed" value="true" />
+      <created>1746177510595</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1746177510595</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added config">
+      <option name="closed" value="true" />
+      <created>1746178136785</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1746178136785</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added docker">
+      <option name="closed" value="true" />
+      <created>1746190236584</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1746190236585</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Edited">
+      <option name="closed" value="true" />
+      <created>1746477658694</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1746477658695</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Edited conf">
+      <option name="closed" value="true" />
+      <created>1746481701391</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1746481701391</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created new project" />
+    <MESSAGE value="Added lib" />
+    <MESSAGE value="Edited build.gradle" />
+    <MESSAGE value="Added frontend files" />
+    <MESSAGE value="Edited frontend" />
+    <MESSAGE value="Added img" />
+    <MESSAGE value="New Main" />
+    <MESSAGE value="Added class Params" />
+    <MESSAGE value="Added Exception" />
+    <MESSAGE value="Edited some limits following the task" />
+    <MESSAGE value="Added http" />
+    <MESSAGE value="Moved from the source" />
+    <MESSAGE value="Added config" />
+    <MESSAGE value="Added docker" />
+    <MESSAGE value="Edited" />
+    <MESSAGE value="Edited conf" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited conf" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/libs/fastcgi-lib.jar!/com/fastcgi/FCGIInterface.class</url>
+          <line>31</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/libs/fastcgi-lib.jar!/com/fastcgi/FCGIInterface.class</url>
+          <line>45</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/libs/fastcgi-lib.jar!/com/fastcgi/FCGIInterface.class</url>
+          <line>49</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
