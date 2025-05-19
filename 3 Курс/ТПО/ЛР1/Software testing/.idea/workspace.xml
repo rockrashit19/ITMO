@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0105c848-f10c-40ce-94ee-f6e52fbbaac2" name="Default Changelist" comment="Commit" />
+    <list default="true" id="0105c848-f10c-40ce-94ee-f6e52fbbaac2" name="Default Changelist" comment="Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/lab1" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -31,7 +33,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/rockrashit19/SoftwareTest.git&quot;,
+    &quot;url&quot;: &quot;https://github.com/rockrashit19/ITMO.git&quot;,
     &quot;accountId&quot;: &quot;cc8e6a9a-0237-4e6b-9e59-6a8934bdad58&quot;
   }
 }</component>
@@ -50,9 +52,11 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/admin/IdeaProjects/Software testing&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/admin/Documents/Documents - MacBook Pro/Рашит/Университеты/Итмо/ITMO/3 Курс/ТПО/ЛР1/Software testing&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -179,6 +183,8 @@
       <workItem from="1746202906487" duration="1627000" />
       <workItem from="1746204574679" duration="706000" />
       <workItem from="1746476382762" duration="10000" />
+      <workItem from="1747143820973" duration="653000" />
+      <workItem from="1747399746478" duration="597000" />
     </task>
     <task id="LOCAL-00001" summary="made Human, Dolphin, Main, DomainModelTest">
       <created>1744986470168</created>
