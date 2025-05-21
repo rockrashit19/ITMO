@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0105c848-f10c-40ce-94ee-f6e52fbbaac2" name="Default Changelist" comment="Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ЛР2/2Lab" beforeDir="false" afterPath="$PROJECT_DIR$/../../ЛР2/2Lab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,6 +186,7 @@
       <workItem from="1746476382762" duration="10000" />
       <workItem from="1747143820973" duration="653000" />
       <workItem from="1747399746478" duration="597000" />
+      <workItem from="1747773697177" duration="1001000" />
     </task>
     <task id="LOCAL-00001" summary="made Human, Dolphin, Main, DomainModelTest">
       <created>1744986470168</created>
