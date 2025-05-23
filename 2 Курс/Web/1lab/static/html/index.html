@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>1lab Galiullin</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+    <script src="../js/script.js"></script>
+  </head>
+  <body>
+    <header>
+      <h1>WEB1 - Point in Area Checker</h1>
+      <p>Student: Rashit Galiullin, Group: P3334, Variant: 490149</p>
+    </header>
+    <main>
+      <div class="container">
+        <form id="pointForm">
+          <div class="image">
+            <img src="../img/areas-2.png" alt="Areas to check" />
+          </div>
+          <div class="input-group">
+            <label for="x">X:</label>
+            <input type="text" id="x" name="x" placeholder="Enter X" />
+          </div>
+          <div class="input-group">
+            <label for="y">Y:</label>
+            <input type="text" id="y" name="y" placeholder="Enter Y" />
+          </div>
+          <div class="input-group">
+            <label for="r">R:</label>
+            <input type="text" id="r" name="r" placeholder="Enter R" />
+          </div>
+          <button type="button" onclick="submitForm()">Submit</button>
+        </form>
+        <div id="result">
+          <h2>Results</h2>
+          <table id="resultTable">
+            <thead>
+              <tr>
+                <th>X</th>
+                <th>Y</th>
+                <th>R</th>
+                <th>In Area</th>
+                <th>Time</th>
+                <th>Execution Time</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
